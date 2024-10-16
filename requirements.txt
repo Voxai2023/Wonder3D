@@ -2,7 +2,7 @@
 torch
 torchvision
 diffusers[torch]
-xformers==0.0.16
+xformers==0.0.22
 transformers
 bitsandbytes
 decord
