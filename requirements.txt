@@ -1,7 +1,7 @@
 # --extra-index-url https://download.pytorch.org/whl/cu117
 # torch==1.13.1
 # torchvision==0.14.1
-diffusers[torch]==0.19.3
+# diffusers[torch]==0.19.3
 xformers==0.0.16
 transformers>=4.25.1
 bitsandbytes==0.35.4
