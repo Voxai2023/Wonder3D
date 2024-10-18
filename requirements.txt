@@ -6,7 +6,7 @@ xformers==0.0.24
 transformers
 bitsandbytes
 decord
-pytorch-lightning
+pytorch-lightning<2
 omegaconf
 nerfacc
 trimesh
